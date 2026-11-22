@@ -1,1 +1,7 @@
-Hello world, here i'm trying to learn C, it's pretty hard but i'm going forward!
+Hello world, here i'm trying to learn C, it's pretty hard but i'm going forward! 
+
+all is good now
+
+trying many spaces
+
+.
